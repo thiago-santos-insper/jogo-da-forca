@@ -32,15 +32,16 @@ python jogo_da_forca.py
 pip install unidecode
 ```
 
+
 ## Exemplo de uso
 
-<img width="1920" height="1080" alt="jogo-da-forca--github-readme-files (7)" src="https://github.com/user-attachments/assets/d3746e84-4ff8-49da-ba0e-3560a296724b" />
-<img width="1920" height="1080" alt="jogo-da-forca--github-readme-files (1)" src="https://github.com/user-attachments/assets/062daf48-c0cc-4656-8bfc-64f2f9d9a3ab" />
-<img width="1920" height="1080" alt="jogo-da-forca--github-readme-files (2)" src="https://github.com/user-attachments/assets/5f329cbc-aa1f-4e11-b31b-4d2fb67e8d4f" />
-<img width="1920" height="1080" alt="jogo-da-forca--github-readme-files (3)" src="https://github.com/user-attachments/assets/ad6818bb-f95f-45cf-8b5d-c652d625f51e" />
-<img width="1920" height="1080" alt="jogo-da-forca--github-readme-files (4)" src="https://github.com/user-attachments/assets/0383e99c-2906-4bb9-a05d-2a2f95165aef" />
-<img width="1920" height="1080" alt="jogo-da-forca--github-readme-files (5)" src="https://github.com/user-attachments/assets/02790ddb-2a76-4aed-b441-dff7becc1752" />
-<img width="1920" height="1080" alt="jogo-da-forca--github-readme-files (6)" src="https://github.com/user-attachments/assets/7db8e017-806c-4861-b43d-f040609bb78c" />
+<img width="683" height="512" alt="jogo-da-forca--github-readme-files (7)" src="https://github.com/user-attachments/assets/cb421bcf-5d30-4388-90c9-baaf8c7ac60f" />
+<img width="684" height="513" alt="jogo-da-forca--github-readme-files (1)" src="https://github.com/user-attachments/assets/dbef612f-d6ce-4408-a239-a2f87838597d" />
+<img width="683" height="512" alt="jogo-da-forca--github-readme-files (2)" src="https://github.com/user-attachments/assets/8651cae5-7dd1-4162-9df7-aa00d3d25de1" />
+<img width="682" height="511" alt="jogo-da-forca--github-readme-files (4)" src="https://github.com/user-attachments/assets/7b92dc80-491e-4528-9ad5-766118b5ee1c" />
+<img width="685" height="514" alt="jogo-da-forca--github-readme-files (3)" src="https://github.com/user-attachments/assets/19a58c14-8b87-424a-b007-4c79d05d8b24" />
+<img width="681" height="511" alt="jogo-da-forca--github-readme-files (6)" src="https://github.com/user-attachments/assets/ebcfeff3-bf1a-4d97-9030-2cf9cfb65c54" />
+<img width="684" height="513" alt="jogo-da-forca--github-readme-files (5)" src="https://github.com/user-attachments/assets/d717fe45-9647-420d-84e9-5ed1f32cde21" />
 
 ## Autor
 
